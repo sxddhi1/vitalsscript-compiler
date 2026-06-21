@@ -149,4 +149,3 @@ npm run preview
 - Introduce a Three-Address Code (TAC) intermediate representation to enable optimization passes
 - Add array/list types for time-series vital sign data
 - Add functions/subprograms with parameter passing
->>>>>>> e2b74ebe88964f3957cb1114f2db8338c091f803
