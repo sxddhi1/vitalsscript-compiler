@@ -3,6 +3,7 @@
 VitalsScript is a Domain-Specific Language (DSL) built for the medical and clinical domain. It lets you write structured programs for patient data entry, vital sign measurement, computed health metric calculation, and clinical report display — using simple, domain-aligned syntax instead of generic programming keywords.
 
 The compiler is implemented entirely in **TypeScript** and delivered as an interactive, web-based IDE built with **React** and **Vite**. No installation is required to use it — it runs entirely in the browser.
+This Project is made as a part of CSE_3222 Compiler Design class.
 
 ## Why VitalsScript?
 
